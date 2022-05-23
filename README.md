@@ -23,4 +23,4 @@
 ## 4.FVTrans(基于PyTorch官方源代码实现的Transformer)
 出于研究Transformer目的，研究PyTorch的Transformer模块，形成本项目。欢迎大家参考！
 + 位置```Attention/FVTrans```
-点击 [FVTrans](FVTrans/README.md) 进入
+点击 [FVTrans](FVTrans) 进入
